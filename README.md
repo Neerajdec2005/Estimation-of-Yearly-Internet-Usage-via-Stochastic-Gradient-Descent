@@ -1,2 +1,2 @@
-# Neerajdec2005-Estimation-of-Yearly-Internet-Usage-via-Stochastic-Gradient-Descent
+# Estimation-of-Yearly-Internet-Usage-via-Stochastic-Gradient-Descent
 A Linear Regression Model using Stochastic Gradient Descent
